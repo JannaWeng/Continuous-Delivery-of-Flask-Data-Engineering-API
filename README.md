@@ -1,5 +1,5 @@
 # MSDS 498 - Data Engineering - Capstone Project
-# Continuous-Delivery-of-Flask-Data-Engineering-API
+# Continuous Delivery of Flask Data Engineering API in GCP
 ## Requirement
 •	Create a Google App Engine application using GCP Cloud Shell environment.<br />
 •	Push source code to Github.<br />
